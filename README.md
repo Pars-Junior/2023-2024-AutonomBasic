@@ -27,6 +27,11 @@ The arm angle will be adjusted to the specified position for optimal pixel relea
 Pixel Release:
 
 Two pixels will be released with precise timing as programmed.
+
+MOST IMPORTANT:
+
+This code block is for blue alliance
+
 Notes:
 
 This autonomous routine is customized for the specific configuration of Pars Junior #25186.
